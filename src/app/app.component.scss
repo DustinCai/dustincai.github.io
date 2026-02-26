@@ -1,0 +1,14 @@
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+router-outlet + app-footer {
+  flex-shrink: 0;
+  margin-top: auto;
+}
+
+// * { outline: 1px solid red !important; }

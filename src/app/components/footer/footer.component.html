@@ -1,0 +1,8 @@
+<footer>
+    <div class="links">
+        @for(item of config.links; track item){
+            <a href="{{item.url}}" target="_blank">{{ item.label }}</a>
+        }
+    </div>
+    <p class="copyright">© 2026 Built by Dustin Cai</p>
+</footer>

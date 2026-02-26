@@ -1,0 +1,21 @@
+{
+    "links": [
+        {
+            "label": "Linkedin", 
+            "icon": "",
+            "url": "https://www.linkedin.com/in/dustincai/"
+        }, 
+
+        {
+            "label": "Github", 
+            "icon": "", 
+            "url": "https://github.com/dustincai"
+        },
+
+        {
+            "label": "Contact", 
+            "icon": "", 
+            "url": "mailto:caidustin1@gmail.com"
+        }
+    ]
+}
